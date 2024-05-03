@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+bostonvenv/
 build/
 develop-eggs/
 dist/
