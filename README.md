@@ -30,8 +30,7 @@ For activate venv environment(macos)
 source bostonvenv/bin/activate
 ```
 
-For checking api request need postman 
-JSON for postman 
+For checking api request need postman (JSON for postman) 
 ```
 {
    "data":{
